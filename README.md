@@ -5,9 +5,9 @@
 My gamesite has started to get blocked so I decided to make the source public. 
 
 You can deploy this via any host like:
-<list>
-netlify
-cloudpages
-github pages
-</list>
+<ul>
+<li>netlify</li>
+<li>cloudpages</li>
+<li>github pages</li>
+</ul>
 </html>
